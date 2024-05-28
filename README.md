@@ -1,4 +1,3 @@
-Sure, here’s how you can structure your README file for your GitHub repository, including detailed steps and examples for using your API endpoints.
 
 ---
 
